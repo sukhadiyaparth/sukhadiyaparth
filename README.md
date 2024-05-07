@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at my-portfolio-gamma-ruby.vercel.app
+* 🖥️  See my portfolio at [my-portfolio-gamma-ruby.vercel.app](https://my-portfolio-gamma-ruby.vercel.app/)
 * ✉️  You can contact me at [parhsukhadiya186@gmail.com](mailto:parhsukhadiya186@gmail.com)
 * 🌱 I’m full stack developer 
 * 👯 I’m looking to collaborate on open source
